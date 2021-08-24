@@ -7,7 +7,7 @@ This is a Gallery component created using Tailwind css. A simple example of the 
 
 # screenshots 
 ![Image](refs/ss1.JPG)
-![Image](refs/ss2.jpg)
+![Image](refs/ss2.JPG)
 
 &nbsp;
 
